@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avianbro
+- 👋 Hi, I’m @AadityaValinkar
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning B tech.
 - 💞️ I’m looking to collaborate on Pythan program
